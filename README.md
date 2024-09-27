@@ -39,47 +39,47 @@ video ->
 
 Tabular classification/regression
 
-* B_A_1A tabular-indepth
-* B_A_1B tabular quick start 
-* B-A-B Tabular multimodal
-* B-A-C Tabular feature engineering
-* B-A-D tabular multilabel 
-* B-A-E tabular GPU 
+* B_A_1A tabular-indepth - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI%201/B_a_1A_tabular_indepth.ipynb
+* B_A_1B tabular quick start - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI%201/B_a_1B_Tabular_quick_start.ipynb
+* B-A-B Tabular multimodal - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI%201/B_a_B_Tabular_multimodal.ipynb
+* B-A-C Tabular feature engineering - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI%201/B_a_C_tabular_feature_engineering.ipynb
+* B-A-D tabular multilabel - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI%201/B_a_D_tabular_multilabel.ipynb
+* B-A-E tabular GPU - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI%201/B_a_E_tabular_gpu.ipynb
 
 Video -> https://youtu.be/y1G2dEgw554?si=G9WWGqnLiTzUD-4U
 
 
 **MI-2:**
 text classfication
-* B_b_A Bigginer text
-* B_b_B Multilingual text 
-* B_b_C ner 
+* B_b_A Bigginer text - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI2/B_b_A_beginner_text.ipynb
+* B_b_B Multilingual text - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI2/B_b_Bmultilingual_text.ipynb
+* B_b_C ner - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI2/B_b_Cner.ipynb
 
 C: text similarity matching/ D: Image classfier 
-* CD_A beginner_img_cls 
-* CD_B Clip_zeroshot  
+* CD_A beginner_img_cls - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI2/CD_A_beginner_image_cls.ipynb
+* CD_B Clip_zeroshot  - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI2/CD_B_clip_zeroshot.ipynb
 
 Video -> https://youtu.be/tZnxPE1NMuw?si=Of0-ev2wlL7T3Nl_
 
 
 **MI-3:**
-* Cd_C Quick Start COCO  
+* Cd_C Quick Start COCO  - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI3/CD_C_quick_start_coco.ipynb
 
 E : IMG segmentation  
-* E_a Beginner semantic seg 
-* E_b document_classification 
-* E_c PDF clasification 
+* E_a Beginner semantic seg - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI3/E_a_beginner_semantic_seg.ipynb
+* E_b document_classification - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI3/E_b_document_classification.ipynb
+* E_c PDF clasification - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI3/E_c_pdf_classification.ipynb
 
 video -> https://youtu.be/9kinHzEnQOk?si=e0KbAiow8pYN0YJu
 
 
 **MI-4:**
 F: Semantic matching 
-* F_A Image to image  
-* F_B Text2text 
-* F_C image_texr matching 
-* F_D zero_shot_img_text 
-* F_E text_semantic_Search 
+* F_A Image to image  - 
+* F_B Text2text - 
+* F_C image_texr matching - 
+* F_D zero_shot_img_text - 
+* F_E text_semantic_Search - 
 
 Video -> https://youtu.be/nS8C4MQ58zQ?si=sY6SOrp526NL_BGZ
 
@@ -92,7 +92,8 @@ G : MultiModal mixed
 
 H : Time series 
 * H_A forecasting indepth
-* H_B forecaseting chronos 
+* H_B forecaseting chronos
+* object detection colab of autogluin -> 
 
 video -> https://youtu.be/gENkKOLjncA?si=Pc-VvmFIUgy1Y6Tl 
 
