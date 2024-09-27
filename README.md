@@ -75,25 +75,25 @@ video -> https://youtu.be/9kinHzEnQOk?si=e0KbAiow8pYN0YJu
 
 **MI-4:**
 F: Semantic matching 
-* F_A Image to image  - 
-* F_B Text2text - 
-* F_C image_texr matching - 
-* F_D zero_shot_img_text - 
-* F_E text_semantic_Search - 
+* F_A Image to image  - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI4/F_A_Image_to_Image.ipynb
+* F_B Text2text - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI4/F_B_text2text_matching.ipynb
+* F_C image_texr matching - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI4/F_C_image_text_matching.ipynb
+* F_D zero_shot_img_text - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI4/F_D_zero_shot_img_txt_matching.ipynb
+* F_E text_semantic_Search - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI4/F_E_text_semantic_search.ipynb
 
 Video -> https://youtu.be/nS8C4MQ58zQ?si=sY6SOrp526NL_BGZ
 
 
 **MI-5:**
 G : MultiModal mixed 
-* G_A multimodal_text_tabular 
-* G_B beginner_multimodal 
-* G_C multimodal_ner 
+* G_A multimodal_text_tabular - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI5/G_A_multimodal_text_tabular.ipynb
+* G_B beginner_multimodal - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI5/G_B_beginner_multimodal.ipynb
+* G_C multimodal_ner - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI5/G_C_multimodal_ner.ipynb
 
 H : Time series 
-* H_A forecasting indepth
-* H_B forecaseting chronos
-* object detection colab of autogluin -> 
+* H_A forecasting indepth - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI5/H_A_forecasting_indepth.ipynb
+* H_B forecaseting chronos - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI5/H_B_forecasting_chronos.ipynb
+* object detection colab of autogluin - https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI5/G_B_beginner_multimodal.ipynb
 
 video -> https://youtu.be/gENkKOLjncA?si=Pc-VvmFIUgy1Y6Tl 
 
