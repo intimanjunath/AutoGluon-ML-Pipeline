@@ -29,10 +29,10 @@ Assignments:
 So here i'll merge few section into part and the colab link will be above. 
 
 **MI-0:**
-* A_a Ieee fraud detection: 
-* A_b Califonia House Price : 
+* A_a Ieee fraud detection: https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI%201/A_a_IEEEfraud_tabular_kaggle.ipynb
+* A_b Califonia House Price : https://github.com/intimanjunath/AutoGluon-ML-Pipeline/blob/master/MI%201/A_b_california_house_prediction.ipynb
 
-video -> 
+video -> https://youtu.be/s7PXUxeHgIU 
 
 
 **MI-1:**
